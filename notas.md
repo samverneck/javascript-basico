@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+![](https://jpwebdev.com/wp-content/uploads/2016/02/javascript-1.png)
 
 ### Aulas 
 
