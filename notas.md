@@ -1,4 +1,4 @@
-![](https://www.bram.us/wordpress/wp-content/uploads/2016/06/javascript-logo-banner-560x272.jpg)
+![](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
 
 ### Aulas 
 
