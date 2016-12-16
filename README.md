@@ -8,7 +8,7 @@
 
 * Hello world - <b>OK</b>
 
-* Comments 
+* Comments - <b>OK</b>
 
 * Declaração de variáveis 
 
