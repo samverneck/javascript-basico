@@ -12,7 +12,7 @@
 
 * Declaração de variáveis - <b>OK</b>
 
-* Conversão de tipos 
+* Conversão de tipos - <b>OK</b>
 
 * Arrays 
 
