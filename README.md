@@ -10,7 +10,7 @@
 
 * Comments - <b>OK</b>
 
-* Declaração de variáveis 
+* Declaração de variáveis - <b>OK</b>
 
 * Conversão de tipos 
 
