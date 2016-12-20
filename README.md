@@ -14,7 +14,7 @@
 
 * Conversão de tipos - <b>OK</b>
 
-* Arrays 
+* Arrays - <b>OK</b> 
 
 * Tamanho de arrays 
 
